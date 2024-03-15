@@ -1,2 +1,2 @@
 # test-repo
-Test Repatory
+Test Repository
