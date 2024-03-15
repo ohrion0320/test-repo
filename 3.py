@@ -1,3 +1,5 @@
+Oh Seung Hyeon 202303690 Computer Engineering
+
 import numpy as np
 import matplotlib.pyplot as plt
 x = np.arange(-2,2,0.001)
